@@ -38,18 +38,7 @@ Here are the technologies I work with. I'm always excited to learn more!
 
 <br>
 
-### 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hemanth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Hemanth's Top Languages" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/master/pcb.gif" width="100%"/>
-</p>
 
 ### 📫 Let's Connect!
 
@@ -64,12 +53,4 @@ I'm always open to connecting with new people, collaborating on projects, or jus
   </a>
 </p>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
-</picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
