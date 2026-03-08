@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Hemanth+Kumar+M.;A+Student+%26+Aspiring+Developer;Constantly+Learning+and+Building;Exploring+the+World+of+AI+%26+ML" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Hemanth+Kumar+M." alt="Typing SVG" />
   </a>
 </p>
 
@@ -36,9 +36,25 @@ Here are the technologies I work with. I'm always excited to learn more!
   <img src="https://img.shields.io/badge/Backend_Development-000000?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Development">
 </p>
 
+  **Core Domains:**
+`Machine Intelligence` | `Data Structures` | `Embedded Systems` | `Quantum AI Concepts`
+
 <br>
 
+---
 
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="50%" />
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=devhemanthac-commits)
 
 ### 📫 Let's Connect!
 
