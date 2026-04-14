@@ -1,73 +1,76 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Hemanth+Kumar+M." alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=250&section=header&text=HEMANTH%20KUMAR%20M&fontSize=75&animation=twinkling&fontAlignY=40" alt="Header" />
 </p>
-<br>
-
-### 👋 About Me
-
-I'm a passionate and driven student at **VVCE, Mysuru**, on a mission to translate complex problems into elegant software solutions. My journey in tech is fueled by curiosity, and I'm currently diving deep into the fascinating world of **AI and Machine Learning**. When I'm not in front of a screen, you can probably find me on a football field ⚽.
-
-<br>
-
-### 🛠️ My Tech Arsenal
-
-Here are the technologies I work with. I'm always excited to learn more!
 
 <p align="center">
-  <strong>Languages & Databases:</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <br><br>
-  <strong>Frontend & Tools:</strong><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <br><br>
-  <strong>Currently Leveling Up In:</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Backend_Development-000000?style=for-the-badge&logo=serverless&logoColor=white" alt="Backend Development">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJmZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-  **Core Domains:**
-`Machine Intelligence` | `Data Structures` | `Embedded Systems` | `Quantum AI Concepts`
-
-<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Transforming+Code+to+3D;AI+%2F+ML+Architect;Cyber+Incident+Responder" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devhemanthac-commits&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devhemanthac-commits&theme=tokyonight" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhemanthac-commits&layout=compact&theme=tokyonight" width="50%" />
-</div>
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=devhemanthac-commits)
-
-### 📫 Let's Connect!
-
-I'm always open to connecting with new people, collaborating on projects, or just having a chat. Feel free to reach out!
+### 🛠️ Tech Arsenal (3D Style)
 
 <p align="center">
-  <a href="mailto:dev.hemanth.ac@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="YOUR-LINKEDIN-PROFILE-URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,java,rust,mysql,html,css,git,figma,kali,linux,docker,react,nodejs&theme=dark" />
+  </a>
 </p>
 
+<br>
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" width="30%"><b>🧠 Machine Intelligence</b></td>
+    <td align="center" width="30%"><b>🛡️ Cybersecurity</b></td>
+    <td align="center" width="30%"><b>🌌 Quantum AI</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z2V1aHJ0MmF2dzc1MmVvNHgxaDlzODIyeXQ3Y2ViZ2M4aDJwYjVyayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3KQFqhgLN9ngkYr0qS/giphy.gif" width="180" style="border-radius: 10px;" alt="3D AI Hologram" /></td>
+    <td align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZjOWNmcHNqODhma2ZiaHRhbDFjeXJreHZ2b2FkNnNqbWQwc3h6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wZM2P9l0PWR4dzhZxZ/giphy.gif" width="180" style="border-radius: 10px;" alt="3D Cyber Lock" /></td>
+    <td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGk5NHhqdmFzZjRoODhlemtmMmE2MnM0NXU0ZHJjajFsYTVsZzRqMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PkoGC4SZK3DynYxlXy/giphy.gif" width="180" style="border-radius: 10px;" alt="3D Quantum Atom" /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" alt="glowing line" />
+</p>
+---
+
+### 🚀 Dynamic Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devhemanthac-commits&show_icons=true&theme=tokyonight&background=00000000&border_radius=20" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devhemanthac-commits&theme=tokyonight&background=00000000&border_radius=20" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhemanthac-commits&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devhemanthac-commits&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devhemanthac-commits&theme=tokyonight" width="32%" />
+</div>
+
+---
+
+### 🛰️ Connect in the Metaverse
+
+<p align="center">
+  <a href="mailto:dev.hemanth.ac@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devhemanthac-commits&color=00BFFF&style=for-the-badge&label=SYSTEM+ACCESSES" />
+</p>
 
