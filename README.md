@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Hemanth+Kumar+M." alt="Typing SVG" />
   </a>
 </p>
-
 <br>
 
 ### 👋 About Me
