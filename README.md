@@ -58,6 +58,14 @@
 </div>
 
 ---
+<h4 align="center">🐾 My Code Pet (Eevee)</h4>
+<div align="center">
+  <p>Eevee evolves as my contribution streak grows!</p>
+  <!-- PET-START -->
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="60" alt="Eevee">
+  <!-- PET-END -->
+</div>
+
 
 ### 🛰️ Connect in the Metaverse
 
