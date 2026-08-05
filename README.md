@@ -49,7 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devhemanthac-commits&theme=tokyonight&background=00000000&border_radius=20" width="48%" />
 </div>
 
-<br>
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devhemanthac-commits&theme=tokyonight" width="32%" />
